@@ -174,7 +174,7 @@ steps_per_day_imp_median
 
 **After imputing missing step value, mean total number of steps taken per day remained the same.**  
 **Median total number of steps slightly increased and became equal to the mean total number of steps.**  
-**The histogram shape changed insignificantly. **
+**The histogram shape changed insignificantly.**
 
 ## Are there differences in activity patterns between weekdays and weekends?
 
